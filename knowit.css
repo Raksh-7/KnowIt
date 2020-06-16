@@ -1,0 +1,45 @@
+h1{
+	font-family: Montserrat-Black;
+	text-align: center;
+	background-color: blue;
+	color: white;
+	padding: 30px;
+}
+hr{
+	border: 2px solid black;
+	width: 50%;
+}
+p{
+	font-family: monospace;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 25px;
+}
+header{
+	background-color: blue;
+	padding: 10px;
+
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 100px;
+
+}
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: monospace;
+}
+li a:hover{
+	color: red;
+	text-decoration: underline;
+}
+footer{
+	background-color: blue;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
